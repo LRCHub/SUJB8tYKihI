@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "恋のミクル伝説",
+  "base_artist": "朝比奈みくる (CV.後藤邑子)",
+  "createdAt": "2025-12-25T11:14:26.021857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋のミクル伝説",
+      "artist": "朝比奈みくる (CV.後藤邑子)",
+      "has_synced": true,
+      "path": "select/01_恋のミクル伝説_朝比奈みくる_(CV.後藤邑子).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋のミクル伝説",
+      "artist": "朝比奈みくる（CV. 後藤邑子）",
+      "has_synced": true,
+      "path": "select/02_恋のミクル伝説_朝比奈みくる(CV._後藤邑子).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋のミクル伝説",
+      "artist": "Ma15",
+      "has_synced": false,
+      "path": "select/03_恋のミクル伝説_Ma15.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋のミクル伝説",
+      "artist": "朝比奈みくる",
+      "has_synced": true,
+      "path": "select/04_恋のミクル伝説_朝比奈みくる.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋のミクル伝説",
+      "artist": "朝比奈みくる (C.V.後藤邑子)",
+      "has_synced": true,
+      "path": "select/05_恋のミクル伝説_朝比奈みくる_(C.V.後藤邑子).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋のミクル伝説",
+      "artist": "朝比奈みくる/(後藤邑子)",
+      "has_synced": true,
+      "path": "select/06_恋のミクル伝説_朝比奈みくる_(後藤邑子).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋のミクル伝説",
+      "artist": "朝比奈みくる(CV.後藤邑子)",
+      "has_synced": true,
+      "path": "select/07_恋のミクル伝説_朝比奈みくる(CV.後藤邑子).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋のミクル伝説",
+      "artist": "涼宮ハルヒの憂鬱",
+      "has_synced": false,
+      "path": "select/08_恋のミクル伝説_涼宮ハルヒの憂鬱.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋のミクル伝説",
+      "artist": "朝比奈みくる(CV.後藤邑子)",
+      "has_synced": true,
+      "path": "select/09_恋のミクル伝説_朝比奈みくる(CV.後藤邑子).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋のミクル伝説",
+      "artist": "朝比奈みくる(CV.後藤邑子)",
+      "has_synced": false,
+      "path": "select/pl_01_恋のミクル伝説_朝比奈みくる(CV.後藤邑子).txt"
+    }
+  ]
+}
